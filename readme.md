@@ -26,6 +26,8 @@ system.
 the shell script provided will build the tests and run them.  Has I a windows machine
 with Java, I would have also provided a .bat
 
+To run the tests, simply pull them, and run the shell script runTests.sh as follows:
+
 sh runTests.sh
  
 
